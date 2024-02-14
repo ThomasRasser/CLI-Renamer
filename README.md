@@ -1,5 +1,7 @@
 # File Renamer CLI Tool
 
+Beware, this is only a small script for my personal use, so if you are not running it on my machine...   ...good luck I guess
+
 A Python-based CLI utility for bulk renaming files in the current directory. It allows users to export file names to a text file, edit them in their preferred text editor, and apply these new names to the original files. The tool supports previewing changes, resetting names, and executing the rename operation directly from the command line.
 
 ## Features
